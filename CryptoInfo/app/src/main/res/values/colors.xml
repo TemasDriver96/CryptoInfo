@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#16bbe3</color>
+    <color name="colorPrimaryDark">#16bbe3</color>
+    <color name="colorAccent">#055467</color>
+    <color name="Button">#16bbe3</color>
+    <color name="facebook">#3b5998</color>
+    <color name="twitter">#00aced</color>
+    <color name="BarColour">#26bf03</color>
+</resources>
